@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ¡Bienvenido a mi rincón digital! 👋
 
-## Acerca de Mí
+## Acerca de Mí.
 
 Soy un estudiante entusiasta y apasionado por las tecnologías emergentes. Actualmente, me encuentro inmerso/a en mi viaje educativo, explorando y aprendiendo sobre diversos aspectos del mundo de la tecnología.
 
