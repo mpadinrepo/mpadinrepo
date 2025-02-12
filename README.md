@@ -1,21 +1,36 @@
-# Welcome to my GitHub Profile
+# ¡Bienvenido/a a mi perfil de GitHub! 👋
 
-## About Me
-I am a dedicated technology student passionate about software development and the latest innovations in artificial intelligence and big data. My goal is to leverage my skills to contribute to progress and innovation in society.
+## Sobre Mí
 
-## My Interests
-- **Software Development:** I enjoy creating efficient and scalable solutions to tackle real-world challenges.
-- **Artificial Intelligence & Big Data:** I am fascinated by the potential of artificial intelligence and data analysis to transform industries and improve processes.
-- **Emerging Technologies:** I am always attentive to the latest technological trends and how they can positively impact the world.
+Soy un estudiante apasionado por la tecnología, actualmente explorando y aprendiendo sobre inteligencia artificial, big data y desarrollo de software. Mi objetivo es aprovechar mis habilidades para contribuir al progreso y la innovación en la sociedad.
 
-## What I'm Learning
-Currently, I am:
-- Completing a Specialization in Artificial Intelligence & Big Data at [IESTEIS].
-- Working on personal projects to expand my technical skills and deepen my understanding of fundamental concepts.
+## Mis Intereses
 
-## Contact
-I would love to connect with you and discuss collaboration opportunities. You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or my [Credly Profile](https://www.credly.com/users/yourprofile).
+- **Desarrollo de Software**: Disfruto creando soluciones eficientes y escalables para abordar desafíos del mundo real.
+- **Inteligencia Artificial & Big Data**: Me fascina el potencial de la inteligencia artificial y el análisis de datos para transformar industrias y mejorar procesos.
+- **Tecnologías Emergentes**: Siempre estoy atento a las últimas tendencias tecnológicas y cómo pueden impactar positivamente al mundo.
 
----
+## Lo Que Estoy Aprendiendo
 
-Thank you for visiting my profile! I hope you find my projects and contributions interesting.
+Actualmente, estoy:
+
+- Completando una especialización en **Inteligencia Artificial & Big Data** en [IESTEIS].
+- Trabajando en proyectos personales para expandir mis habilidades técnicas y profundizar mi comprensión de conceptos fundamentales.
+
+## Repositorio de Proyectos de Tecnología
+
+¡Bienvenido/a a mi repositorio de proyectos tecnológicos! Aquí encontrarás una variedad de carpetas correspondientes a diferentes proyectos en los que he estado trabajando.
+
+### Índice de Proyectos:
+
+- [MIA_DAVID](https://github.com/mpadinrepo/BIGDATA_IA/tree/main/BIGDATA_IA/MIA_DAVID)
+- [ML_VANESA](https://github.com/mpadinrepo/BIGDATA_IA/tree/main/BIGDATA_IA/ML_VANESA)
+- [PIA_ISAAC](https://github.com/mpadinrepo/BIGDATA_IA/tree/main/BIGDATA_IA/PIA_ISAAC)
+- [SBDA_JUANCARLOS](https://github.com/mpadinrepo/BIGDATA_IA/tree/main/BIGDATA_IA/SBDA_JUANCARLOS)
+- [BDA_RICARDO](https://github.com/mpadinrepo/BIGDATA_IA/tree/main/BIGDATA_IA/BDA_RICARDO)
+
+## Contacto
+
+Me encantaría conectarme contigo y discutir oportunidades de colaboración. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o en mi perfil de [Credly](https://www.credly.com/users/tu-perfil).
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
