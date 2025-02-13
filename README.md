@@ -31,6 +31,6 @@ Actualmente, estoy:
 
 ## Contacto
 
-Me encantaría conectarme contigo y discutir oportunidades de colaboración. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o en mi perfil de [Credly](https://www.credly.com/users/tu-perfil).
+Me encantaría conectarme contigo y discutir oportunidades de colaboración. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/manuelpadinpresa/) o en mi perfil de [Credly](https://www.credly.com/users/manuel-anselmo-padin-presa).
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
